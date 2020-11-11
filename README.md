@@ -1,1 +1,1 @@
-# Frontend_Masters
+My solutions to Frontend Masters course exercises.
